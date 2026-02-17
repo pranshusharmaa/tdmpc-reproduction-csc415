@@ -120,7 +120,7 @@ To reproduce results:
 
 # AI Usage
 
-ChatGPT was used to assist with debugging environment setup, interpreting logs, and drafting documentation. All experiments were executed and validated manually.
+GenAI was used to assist with debugging environment setup, and drafting documentation. All experiments were executed and validated manually.
 
 ---
 
